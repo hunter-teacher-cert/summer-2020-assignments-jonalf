@@ -1,5 +1,5 @@
-* Last name:
-* First name:
+* Last name:Dyrland-Weaver
+* First name:JonAlf
 * Github username:
 
 * Instructions:
