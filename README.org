@@ -1,9 +1,16 @@
-* Last name:
+* name firstast name:
+
+
 * First name:
+
+something sometihgn
+
+
 * Github username:
 
 * Instructions:
 
+more stff
 Fill out the top of this form, commit and push it back to GitHub.
 
 For each assignment make a directory as specified in the
